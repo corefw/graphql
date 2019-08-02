@@ -1,0 +1,25 @@
+{
+	"name": "@corefw/graphql",
+	"version": "0.1.0",
+	"description": "GraphQL",
+	"license": "MIT",
+	"author": "Luke Chavers <luke@c2cschools.com>",
+	"contributors": [
+		"Kevin Sanders <kevin@c2cschools.com>"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/corefw/graphql.git"
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"bugs": {
+		"url": "https://github.com/corefw/graphql/issues"
+	},
+	"homepage": "https://github.com/corefw/graphql#readme",
+	"main": "./lib/index.js",
+	"engines": {
+		"node": ">=8"
+	}
+}
